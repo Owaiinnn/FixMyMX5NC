@@ -61,10 +61,6 @@ We welcome contributions to improve FixMyMX5NC. If you have suggestions or want 
    ```
 5. Open a pull request in the main repository.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contact
 
-For questions or support, please contact [your email/contact information here].
+For questions or support, please contact me.
